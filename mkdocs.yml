@@ -1,0 +1,53 @@
+site_name: RAVEN
+copyright: 'Copyright 2023 David Shapiro - All Rights Reserved.'
+theme:
+    name: material
+    features:
+      - navigation.instant
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.top
+      - navigation.footer
+    logo: images/raven.jpg
+    favicon: images/favicon.jpg
+    palette:
+      scheme: slate
+      font:
+        text: Roboto
+    highlightjs: true
+    hljs_languages:
+        - yaml
+    
+
+nav:
+    - Home: 'index.md'
+    - Overview: 'overview.md'
+    - Mico-Services: 'services.md'
+    - Tools: 'tools.md'
+    - Deployment: 'deployment.md'
+    - Support: 'support.md'
+    - Contributing: 'Contributing.md'
+    - Glossary: 'glossary.md'
+    - License: 'LICENSE.md'
+
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/dshap_automator
+    - icon: fontawesome/brands/github 
+      link: https://github.com/daveshap
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/dshap-automator/
+  consent:
+    title: Cookie consent
+    description: >- 
+
+
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+            

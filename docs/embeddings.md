@@ -1,7 +1,7 @@
 # Embeddings Microservice
 
 A very simple service to embed input strings
-
+ 
 This follows a simple app architecture
 * routers contain all routes organized by need (in this case embeddings)
 * schemas contain pydantic classes that define request and response structures

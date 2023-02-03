@@ -1,4 +1,0 @@
-fastapi
-tensorflow-hub
-tensorflow
-uvicorn
