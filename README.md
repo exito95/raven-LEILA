@@ -7,6 +7,8 @@ RAVEN is meant to be a digital assistant and artificial cognitive entity. The go
 
 ## Get Started with Development
 
+The Contributors Guidelines are in the documentation. A more specific technical development specification is being drafted.
+
 - Clone this repository using your favorite tool(s).
 
 - Checkout the desired branch to work on. In this example 1.0.0
@@ -16,7 +18,7 @@ git checkout 1.0.0
 
 ```
 
-- Create a Python virtual with tools of your choice using the environment.yml file in the root of the project.
+- Create a Python virtual environment with tools of your choice using the environment.yml file in the root of the project.
 
 - Activate the new environment according to instructions in the terminal window.
 
