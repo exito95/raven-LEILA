@@ -11,7 +11,7 @@ The Contributors Guidelines are in the documentation. A more specific technical 
 
 - Clone this repository using your favorite tool(s).
 
-- Checkout the desired branch to work on. In this example 1.0.0
+- Checkout the desired branch to work on. In this example 1.0.0-dev
 
 ```
 git checkout 1.0.0-dev
