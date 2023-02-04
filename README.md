@@ -14,7 +14,7 @@ The Contributors Guidelines are in the documentation. A more specific technical 
 - Checkout the desired branch to work on. In this example 1.0.0
 
 ```
-git checkout 1.0.0
+git checkout 1.0.0-dev
 
 ```
 
