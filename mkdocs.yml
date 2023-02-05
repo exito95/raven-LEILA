@@ -8,8 +8,8 @@ theme:
       - navigation.tabs.sticky
       - navigation.top
       - navigation.footer
-    logo: images/raven.jpg
-    favicon: images/favicon.jpg
+    logo: images/docs_logo.png
+    favicon: images/favicon.ico
     palette:
       scheme: slate
       font:
