@@ -7,3 +7,9 @@ RAVEN is meant to be a digital assistant and artificial cognitive entity. The go
 Check out the introduction video below. This video covers the origin of RAVEN, overview of the theory, and then an introduction into this Open Source project:
 
 [![YouTube Thumbnail and Link to RAVEN Intro](http://img.youtube.com/vi/EwJ1534Gy6g/0.jpg)](http://www.youtube.com/watch?v=EwJ1534Gy6g "What is RAVEN? Overview, Introduction, and Community Update - Friday, February 3, 2023")
+
+# Primary Pages
+
+- Project Wiki: https://github.com/daveshap/raven/wiki
+- Discussions: https://github.com/daveshap/raven/discussions 
+- Issues: https://github.com/daveshap/raven/issues
