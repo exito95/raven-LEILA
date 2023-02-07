@@ -6,7 +6,7 @@ RAVEN is meant to be a digital assistant and artificial cognitive entity. The go
 
 Please read the draft [Code of Conduct](https://github.com/daveshap/raven/wiki/Code-of-Conduct-(draft)).
 
-There is also a [Contributors Guide draft](Contributing.md) that will eventually be merged with the Code of Conduct.
+There is also a [Contributors Guide draft](https://github.com/daveshap/raven/blob/1.0.0-dev/docs/Contributing.md) that will eventually be merged with the Code of Conduct.
 
 
 ## Get Started with Development
