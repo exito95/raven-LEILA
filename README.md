@@ -4,10 +4,15 @@ RAVEN (Realtime Assistant Voice Enabled Network) OSS community edition.
 
 RAVEN is meant to be a digital assistant and artificial cognitive entity. The goal is to create an autonomous artificial intelligence that is reliable, trustworthy, and useful. 
 
+Please read the draft [Code of Conduct](https://github.com/daveshap/raven/wiki/Code-of-Conduct-(draft)).
+
+There is also a [Contributors Guide draft](Contributing.md) that will eventually be merged with the Code of Conduct.
+
 
 ## Get Started with Development
 
-The Contributors Guidelines are in the documentation. A more specific technical development specification is being drafted.
+The development branching strategy is located [here in the Wiki](https://github.com/daveshap/raven/wiki/Development---Branching-Strategy-and-Process-(draft)).
+
 
 - Clone this repository using your favorite tool(s).
 
