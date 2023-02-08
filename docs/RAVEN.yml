@@ -1,0 +1,14 @@
+# RAVEN.yml
+# RAVEN Configuration Options
+
+# API Keys - Enter the path and filename for the location of each of the API keys. If you do not have a particular API Key 
+# then pass an empty string to that option. This will affect, and possibly prevent use of that service.
+# The file must be a UTF-8 plsin text file with one line containing the API Key.
+OPENAIAPIKEY: './openaiapikey.txt' # Example
+X-goog-api-key: ''                 # Example
+azure-api.net: ''                  # Example
+
+
+
+# Read only options. DO NOT EDIT.
+raven_version: '1.0.0'
