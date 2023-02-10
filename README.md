@@ -32,6 +32,12 @@ Please read the draft [Code of Conduct](https://github.com/daveshap/raven/wiki/C
 
 There is also a [Contributors Guide draft](https://github.com/daveshap/raven/blob/1.0.0-dev/docs/Contributing.md) that will eventually be merged with the Code of Conduct.
 
+# Development
+
+We are still in the Forming phase. Please be patient - the RAVEN project was launched February 2, 2023 (so it's brand new)
+
+(https://user-images.githubusercontent.com/878550/217951051-62a1784f-96a2-40c8-a2a3-cf48af7bba8f.png)
+
 
 ## Get Started with Development
 
