@@ -59,7 +59,7 @@ git checkout 1.0.0-dev
 
 - The *microservices* are in the services/microservices directory.
 
-### Documetation Development
+### Documentation Development
 
 Documentation is written in markdown files in the docs directory. 
 
