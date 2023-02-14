@@ -17,9 +17,6 @@ RAVEN is meant to be a digital assistant and artificial cognitive entity. The go
 
 1. Please see the updated announcement here: https://github.com/daveshap/raven/discussions/52
    - This covers forming a legal entity, establishing governance, and funding
-2. David just spoke with Mozilla AI (https://foundation.mozilla.org/en/internet-health/trustworthy-artificial-intelligence/) - this is very exciting!
-   - Mozilla AI is interested in the RAVEN project, future discussions will revolve around ethics, safety, transparency, trustworthiness
-   - Specifically, Mozilla AI is curious about creating autonomous AI agents, a new domain that does not get enough attention
 
 ## Primary Pages
 
